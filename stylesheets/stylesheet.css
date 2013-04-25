@@ -493,7 +493,7 @@ footer a:hover {
   display: inline-block;
 }
 .nav a {
-  padding: 3px 12px;
+  padding: 3px 12px 0 0;
   text-decoration: none;
   color: #fff;
   line-height: 100%;
